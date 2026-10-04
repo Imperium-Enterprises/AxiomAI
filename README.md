@@ -2,7 +2,7 @@
 
 > **⚠️ Important: The version of AxiomAI available on GitHub is NOT the complete version of AxiomAI.**
 
-AxiomAI is an AI assistant developed by **Imperium Enterprises**, designed to provide an intelligent, customizable assistant experience with features focused on voice interaction, automation, and AI-powered functionality.
+AxiomAI is an AI assistant developed by **Jaiden Henry**, designed to provide an intelligent, customizable assistant experience with features focused on voice interaction, automation, and AI-powered functionality.
 
 ## ⚠️ About This GitHub Version
 
@@ -26,11 +26,11 @@ The GitHub version is provided as a look into the project and its development �
 
 If you want to use the **actual released version of AxiomAI**, there are two options:
 
-### 📧 Contact Imperium Enterprises
+### 📧 Contact Ivory Enterprises
 
 For access, questions, business inquiries, or information about AxiomAI:
 
-**[ie.imperiumenterprises@gmail.com](mailto:ie.imperiumenterprises@gmail.com)**
+**[ie.ivoryenterprises@gmail.com](mailto:ie.ivoryenterprises@gmail.com)**
 
 ### 🪟 Microsoft Store
 
@@ -59,7 +59,7 @@ Features may therefore be:
 
 ---
 
-## 🏢 About Imperium Enterprises
+## 🏢 About Ivory Enterprises
 
 **Imperium Enterprises** is focused on developing software and AI-powered technology, with AxiomAI being one of its primary projects.
 
@@ -74,12 +74,12 @@ If you came across this repository expecting to download the **full AxiomAI expe
 For the released version:
 
 **Contact:**
-`ie.imperiumenterprises@gmail.com`
+`ie.ivoryenterprises@gmail.com`
 
 **Or download AxiomAI through the Microsoft Store.**
 
 ---
 
-### © Imperium Enterprises
 
-*AxiomAI and related software are products of Imperium Enterprises.*
+
+*AxiomAI and related software are products of Ivory Enterprises.*
